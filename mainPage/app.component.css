@@ -1,0 +1,37 @@
+
+.box {
+  margin-top: -700px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+
+}
+
+.poze {
+
+  margin-top: 0px;
+  padding-top: 0;
+  padding-bottom: 300px;
+
+}
+
+.text {
+
+  color: #4585ff;
+  font-size: 20px;
+  font-family: 'Bodoni', serif;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+/*
+.text {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  font-family: Bodoni, serif;
+  font-size: 20px;
+  color: #3f51b5;
+}
+*/
